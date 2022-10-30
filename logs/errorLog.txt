@@ -1,0 +1,9 @@
+20221028	06:43:14	f024a267-8fc5-4998-8110-75e5615590a8	Error: Not allowed by CORS
+20221029	21:00:48	c1dcd779-56c9-40f5-90e8-88ae55f44bcd	TypeError: Cannot read properties of undefined (reading 'username')
+20221029	21:04:06	c2e434c5-f937-4b12-ac60-8a3dcc5a73aa	TypeError: Cannot read properties of undefined (reading 'username')
+20221029	21:05:06	2c1f9458-9e8a-45af-acee-8037fe236b17	TypeError: Cannot read properties of undefined (reading 'username')
+20221029	21:06:06	1b7cf997-caff-442c-af0f-9dee90f21098	ReferenceError: error is not defined
+20221029	22:29:03	aa1c90f4-e7e5-4e24-9363-1830244a7e3e	Error: Not allowed by CORS
+20221029	22:29:03	712dd4f6-277c-46bd-9839-ee7a857f84fc	Error: Not allowed by CORS
+20221030	11:43:55	bd81355f-7d99-49bc-8f02-73df6072d005	TypeError: authHeader?.startwith is not a function
+20221030	19:09:07	aee406aa-b3fb-4cef-9efe-66f2d123208b	SyntaxError: Unexpected token e in JSON at position 37
